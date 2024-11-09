@@ -1,9 +1,5 @@
 # <h1>Jira Assistant</h1> #
 
-<p align="center">
-    <img src="images/logo.png" height="200px" width="200px"/>
-</p>
-
 A tool meant to assist users of Jira by expanding upon the features of JiraGantt.
 
 ## <h3>Installation</h3> ##
@@ -17,17 +13,6 @@ Note that the links will take you to Artifactory, where you will be asked to log
 
 Simply install and run the installer, then follow the provided steps.
 
-
-### <h5>Alternatives:</h5> ###
-If installing the application doesn't work, it can still be run by cloning this git repository and (with Node.js installed and added to the PATH) running
-```
-npm i
-```
-Followed by
-```
-npm run start
-```
-(If the browser tools open, change the value of DEV_MODE at the top of index.js to false)
 
 ## <h3>Additional Features (compared with JiraGantt)</h3> ##
 
